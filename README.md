@@ -50,5 +50,13 @@ The system is also connected with Anvil to allow deployment in a simple web inte
 ### Classification Report (Ensemble)  
 <img width="589" height="337" alt="image" src="https://github.com/user-attachments/assets/03aea86b-a7e5-4094-9edb-83505aa471cf" />
 
+## Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/Nidhish36/text-classification-nlp.git
+cd text-classification-nlp
+pip install -r requirements.txt
 
 
