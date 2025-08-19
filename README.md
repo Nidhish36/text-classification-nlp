@@ -48,15 +48,7 @@ The system is also connected with Anvil to allow deployment in a simple web inte
 - 91.34%  
 
 ### Classification Report (Ensemble)  
-          precision    recall  f1-score   support
+<img width="589" height="337" alt="image" src="https://github.com/user-attachments/assets/03aea86b-a7e5-4094-9edb-83505aa471cf" />
 
-   anger       0.92      0.91      0.92     11863
-    fear       0.88      0.86      0.87      9930
-     joy       0.91      0.96      0.94     28614
-    love       0.90      0.71      0.80      6911
-     sad       0.94      0.96      0.95     24238
- surprise     0.80      0.72      0.76      2994
-
-accuracy                           0.91     84550
 
 
