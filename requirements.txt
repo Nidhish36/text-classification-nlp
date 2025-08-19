@@ -1,0 +1,11 @@
+numpy
+pandas
+seaborn
+matplotlib
+wordcloud
+scikit-learn
+tensorflow
+anvil-uplink
+
+
+
